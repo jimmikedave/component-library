@@ -1,8 +1,8 @@
 export default function Home() {
     
     return (
-        <div>
-            
+        <div className='home'>
+            <div className='example'>bruh</div>
         </div>
     )
 }
