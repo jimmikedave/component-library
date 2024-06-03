@@ -1,0 +1,28 @@
+nav {
+    background: #000;
+    border: 10px groove $gray;
+    height: 60px;
+    padding: 0 50px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    a,
+    p {
+        color: #fff;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    .links {
+        width: 100%;
+        max-width: 300px;
+
+        display: flex;
+        justify-content: space-between;
+
+        
+    }
+    
+}
